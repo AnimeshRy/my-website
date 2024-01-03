@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Docs Intro
-slug: first-docs-post
+slug: intro
 tags:
   - hola
   - docusaurus
