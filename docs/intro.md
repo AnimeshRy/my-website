@@ -1,5 +1,15 @@
 ---
 sidebar_position: 1
+title: Docs Intro
+slug: first-docs-post
+tags:
+  - hola
+  - docusaurus
+authors:
+  name: Gao Wei
+  title: Docusaurus Core Team
+  url: https://github.com/wgao19
+  image_url: https://github.com/wgao19.png
 ---
 
 # Tutorial Intro
